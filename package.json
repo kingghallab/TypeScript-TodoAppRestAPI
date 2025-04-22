@@ -1,0 +1,24 @@
+{
+  "name": "typescript",
+  "version": "1.0.0",
+  "description": "Testing out typescript in node.js",
+  "keywords": [
+    "typeScript"
+  ],
+  "license": "ISC",
+  "author": "Adham",
+  "type": "commonjs",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "body-parser": "^2.2.0",
+    "express": "^5.1.0"
+  },
+  "devDependencies": {
+    "@types/body-parser": "^1.19.5",
+    "@types/express": "^5.0.1",
+    "@types/node": "^22.14.1"
+  }
+}
